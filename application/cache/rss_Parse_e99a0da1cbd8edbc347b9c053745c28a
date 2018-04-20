@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.arstechnica.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+
+<channel>
+	<title>Ars Technica</title>
+	
+	<link>http://arstechnica.com</link>
+	<description>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</description>
+	<lastBuildDate>Sat, 24 Dec 2016 14:21:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+
+<image>
+	<url>https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png</url>
+	<title>Ars Technica</title>
+	<link>http://arstechnica.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="arstechnica/index" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Engineers find anomaly during James Webb Space Telescope tests [Updated]</title>
+		<link>http://arstechnica.com/science/2016/12/engineers-detect-anomaly-during-testing-of-james-webb-space-telescope/</link>
+		<pubDate>Sat, 24 Dec 2016 14:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Scientific Method]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1012457</guid>
+		<description><![CDATA[An unknown problem occurred during vibration tests to simulate launch conditions.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/09/James-Webb-artists-impression-800x800.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/09/James-Webb-artists-impression.jpg" class="enlarge-link" data-height="2048" data-width="2048">Enlarge</a> <span class="sep">/</span> Artist's impression of the James Webb Space Telescope.  (credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/nasawebbtelescope/sets/72157624413830771">NASA</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p><strong>Dec. 24th Update</strong>: In an update <a href="http://jwst.nasa.gov/vibrationTestStatus.html">posted</a> Friday on the health of its James Webb Space Telescope, NASA reported that engineers at Goddard Space Flight Center are "making good progress at identifying the root cause of the vibration anomaly." During two subsequent vibration tests, the large instrument was found to be in sound condition, and engineers expect to finalize their investigation and plans to move forward in early January. As about six months of "reserve" remain the the telescope's development timeline, its launch date of October 2018 has not yet been affected.</p>
+<p><strong>Original post</strong>: It's never a good thing when an anomaly is detected in your scientific instrument during pre-operational testing. When that instrument is the James Webb Space Telescope—which is expected to cost about $8.8 billion, cannot be fixed after launch, and is counted upon to provide insights about the earliest days of the Universe—it's cause for significant concern.</p>
+<p>The anomaly occurred earlier this month, on December 3, during vibration testing at Goddard Space Flight Center in Maryland. As part of the run-up to a launch in late 2018, the telescope will be subjected to all manner of conditions, from extreme temperatures to a hard vacuum, to ensure that it will survive during its five- to 10-year mission in deep space. The telescope must also withstand its launch aboard an Ariane 5 rocket, and the vibration test mimicked the shaking and gravitational forces of launch. After the test began, accelerometers detected "anomalous readings," but so far the cause of the anomaly has yet to be determined.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/engineers-detect-anomaly-during-testing-of-james-webb-space-telescope/#p3">Read 3 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/engineers-detect-anomaly-during-testing-of-james-webb-space-telescope/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=0nCgRm13UIk:znv5WoyKifM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=0nCgRm13UIk:znv5WoyKifM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=0nCgRm13UIk:znv5WoyKifM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=0nCgRm13UIk:znv5WoyKifM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=0nCgRm13UIk:znv5WoyKifM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=0nCgRm13UIk:znv5WoyKifM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>The most popular stories of 2016</title>
+		<link>http://arstechnica.com/staff/2016/12/the-most-popular-stories-of-2016/</link>
+		<pubDate>Sat, 24 Dec 2016 13:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Bangeman]]></dc:creator>
+				<category><![CDATA[Staff]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1012947</guid>
+		<description><![CDATA[Our top 10 features and top 10 news stories by pageviews.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/ars-top-posts-800x450.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/ars-top-posts.jpg" class="enlarge-link" data-height="450" data-width="800">Enlarge</a> (credit: Aurich Lawson)</p>  </figure><div><a name="page-1"></a></div>
+<p>What a year 2016 was. There was a US presidential election with an unexpected result, a UK referendum on leaving the European Union with an unexpected result, a constitutional referendum in Italy with an unexpected result... you get the picture. One thing that <em>wasn't</em> out of the ordinary was a year of outstanding stories from the writers at Ars Technica.</p>
+<p>2016 saw record traffic for Ars, both in pages served and unique visitors. People not only want to read our takes on the shiniest, newest gadgets; they stop by Ars to learn not only what's going on but why it's important.</p>
+<p>As we prepare to put 2016 in our collective rearview mirror, we thought you'd like a look at our top 10 multipage features and single-page news stories from 2016.</p>
+</div><p><a href="http://arstechnica.com/staff/2016/12/the-most-popular-stories-of-2016/#p3">Read 39 remaining paragraphs</a> | <a href="http://arstechnica.com/staff/2016/12/the-most-popular-stories-of-2016/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=DeW-YJCLRxc:yQ1zm4x64Zo:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=DeW-YJCLRxc:yQ1zm4x64Zo:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=DeW-YJCLRxc:yQ1zm4x64Zo:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=DeW-YJCLRxc:yQ1zm4x64Zo:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=DeW-YJCLRxc:yQ1zm4x64Zo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=DeW-YJCLRxc:yQ1zm4x64Zo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Junk food cravings are triggered by the mere thought of being low class</title>
+		<link>http://arstechnica.com/science/2016/12/junk-food-cravings-are-triggered-by-the-mere-thought-of-being-low-class/</link>
+		<pubDate>Sat, 24 Dec 2016 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Beth Mole]]></dc:creator>
+				<category><![CDATA[Scientific Method]]></category>
+		<category><![CDATA[calories]]></category>
+		<category><![CDATA[diabetes]]></category>
+		<category><![CDATA[diet]]></category>
+		<category><![CDATA[fat]]></category>
+		<category><![CDATA[obesity]]></category>
+		<category><![CDATA[public health]]></category>
+		<category><![CDATA[socioeconomic status]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1015273</guid>
+		<description><![CDATA[Link between socioeconomic and poor nutrition may partly be in the mind.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/GettyImages-75376803-800x776.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/GettyImages-75376803.jpg" class="enlarge-link" data-height="993" data-width="1024">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="http://www.gettyimages.com/license/75376803">Getty | Cate Gillon</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>It’s well established that people with low economic status are the hardest hit by the current obesity pandemic, as well as related health problems such as diabetes. Poor healthcare, stress, unhealthy lifestyles, and a cornucopia of cheap junk food are all thought to play a role. But a new study suggests there’s a subconscious component, too.</p>
+<p>When researchers merely prompted study volunteers to consider themselves low-class, they were more likely to <a href="http://dx.doi.org/10.1073/pnas.1607330114">prefer, choose, and eat</a> larger amounts of food, as well as higher-calorie foods. The findings, published in the <em>Proceedings of the National Academy of Sciences</em>, echo what’s been seen in a variety of animals—from birds and rodents to nonhuman primates. Thus, the authors speculate that the mental glitch may be an evolutionary holdover intended to boost survival by compensating for a lack of social and material resources.</p>
+<p>More important for humans, the findings suggest that we may not be able to tackle obesity by just improving access to healthier foods and promoting exercise.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/junk-food-cravings-are-triggered-by-the-mere-thought-of-being-low-class/#p3">Read 6 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/junk-food-cravings-are-triggered-by-the-mere-thought-of-being-low-class/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=R9EvFRWeM3w:coWqbcSN4Hs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=R9EvFRWeM3w:coWqbcSN4Hs:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=R9EvFRWeM3w:coWqbcSN4Hs:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=R9EvFRWeM3w:coWqbcSN4Hs:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=R9EvFRWeM3w:coWqbcSN4Hs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=R9EvFRWeM3w:coWqbcSN4Hs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>World’s first solar road opens in France: It’s ridiculously expensive</title>
+		<link>http://arstechnica.com/cars/2016/12/worlds-first-solar-road-opens-in-france/</link>
+		<pubDate>Fri, 23 Dec 2016 20:42:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sebastian Anthony]]></dc:creator>
+				<category><![CDATA[Cars Technica]]></category>
+		<category><![CDATA[Gear & Gadgets]]></category>
+		<category><![CDATA[colas]]></category>
+		<category><![CDATA[france]]></category>
+		<category><![CDATA[solar power]]></category>
+		<category><![CDATA[solar road]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1015427</guid>
+		<description><![CDATA[Kilometer-long road cost $5.2 million to build.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+
+
+
+
+
+<div><a name="page-1"></a></div>
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/12/GettyImages-630410758-980x654.jpg"><p>
+                                    Charly Triballeau/AFP/Getty Images                        </p>
+      
+
+<p>The world's first solar highway has been opened in France, in the not-very-sunny village of Tourouvre au Perche in Normandy. The roadway is just one kilometre (0.6mi) long, but that still works out at 2,800 square metres of photovoltaic cells—enough, hopefully, to power the village's street lights.</p>
+<p>The road was built by Colas, a large Anglo-French construction company. Colas has apparently been working on its own solar road tech, called Wattway, for at least five years. Wattway has been tested in car parks, but this is the first time it has been used on an active road. There will now be a two-year test period, to see if Wattway can withstand the rigour of being pounded by thousands of cars and trucks per day, and whether it can actually provide a useful amount of electricity.</p>
+</div><p><a href="http://arstechnica.com/cars/2016/12/worlds-first-solar-road-opens-in-france/#p3">Read 10 remaining paragraphs</a> | <a href="http://arstechnica.com/cars/2016/12/worlds-first-solar-road-opens-in-france/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=Bk6gOvMxfrw:qEWWo2t2JCs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=Bk6gOvMxfrw:qEWWo2t2JCs:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=Bk6gOvMxfrw:qEWWo2t2JCs:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=Bk6gOvMxfrw:qEWWo2t2JCs:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=Bk6gOvMxfrw:qEWWo2t2JCs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=Bk6gOvMxfrw:qEWWo2t2JCs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Low birth weight doesn’t seem to affect cognitive ability as much these days</title>
+		<link>http://arstechnica.com/science/2016/12/low-birth-weight-doesnt-seem-to-affect-cognitive-ability-as-much-these-days/</link>
+		<pubDate>Fri, 23 Dec 2016 18:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Cathleen O'Grady]]></dc:creator>
+				<category><![CDATA[Scientific Method]]></category>
+		<category><![CDATA[Behavioral science]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[cognitive function]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1014677</guid>
+		<description><![CDATA[A new cohort study shows the negative impact has reduced over time.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/Premature_infant_with_ventilators.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/Premature_infant_with_ventilators.jpg" class="enlarge-link" data-height="453" data-width="768">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="http://www.flickr.com/photos/ceejayoz/3579010939/">flickr user: ceejayoz</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Evidence has shown that low birth weight is not a good thing for newborns. It’s associated with higher infant mortality and negative impacts on long-term outcomes, like lifelong income and cognitive ability.</p>
+<p>But with improved medical practices, there’s a chance that this could be changing. A group of researchers in England, Germany, and Finland took a look at some demographic data and found that the link between birth weight and cognitive ability may have drastically declined over time—although it hasn't disappeared entirely.</p>
+<p>The difficulty with research into questions like these is that it often takes crazy amounts of time. If you want to find out how birth weight affects people in adulthood, you need to track them from the moment they’re born and for decades afterwards. A lot of our evidence about the effects of birth weight had come from studying groups of people who were born in the 1950s.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/low-birth-weight-doesnt-seem-to-affect-cognitive-ability-as-much-these-days/#p3">Read 10 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/low-birth-weight-doesnt-seem-to-affect-cognitive-ability-as-much-these-days/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=6GiTOqUulug:KFlYQkCJUbE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=6GiTOqUulug:KFlYQkCJUbE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=6GiTOqUulug:KFlYQkCJUbE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=6GiTOqUulug:KFlYQkCJUbE:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=6GiTOqUulug:KFlYQkCJUbE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=6GiTOqUulug:KFlYQkCJUbE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Two roads to the same place: 2016 and the future of self-driving cars</title>
+		<link>http://arstechnica.com/cars/2016/12/two-roads-to-the-same-place-2016-and-the-future-of-self-driving-cars/</link>
+		<pubDate>Fri, 23 Dec 2016 16:43:40 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan M. Gitlin]]></dc:creator>
+				<category><![CDATA[Cars Technica]]></category>
+		<category><![CDATA[autonomous cars]]></category>
+		<category><![CDATA[self-driving]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1014639</guid>
+		<description><![CDATA[2016 was something of a watershed for autonomous vehicles.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/brain-roads-800x450.jpeg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/brain-roads.jpeg" class="enlarge-link" data-height="450" data-width="800">Enlarge</a> (credit: Aurich Lawson)</p>  </figure><div><a name="page-1"></a></div>
+<p>The self-driving car reached something of a watershed in 2016. All of a sudden, it seems we're right on the threshold of autonomous vehicles transforming our transportation. I'd ask any engineer in 2015 when they thought we'd have full (i.e., SAE level 5) self-driving vehicles and the answer was always "ooh, that's another 20-30 years away." Fast forward a year, and all of a sudden that target has moved: <a href="http://arstechnica.com/cars/2016/07/bmw-intel-and-mobileye-will-launch-an-autonomous-car-in-five-years/">BMW, Intel, Mobileye</a>, <a href="http://arstechnica.com/cars/2016/08/uber-and-volvo-partner-up-robot-ride-sharing-starts-this-summer/">Uber, Volvo</a>, <a href="http://arstechnica.com/cars/2016/08/ford-to-mass-produce-a-completely-self-driving-car-within-five-years/">Ford</a>, <a href="http://arstechnica.com/cars/2016/08/delphi-mobileye-unite-to-bring-easy-to-integrate-autonomy-to-car-makers/">Delphi</a>, and others have all set 2021 (or earlier in the case of Delphi) as the year by which steering wheels become optional.</p>
+<p>The big breakthrough is down to the use of machine learning and deep neural networks, <a href="http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?nytmobile=0&amp;_r=0">a field that has come along leaps and bounds</a> in a relatively short space of time. For example, Nvidia will sell OEMs and tier one suppliers an open AI platform for automotive uses that leverages the company's GPUs and machine learning—tech that it ably demonstrated with its BB-8 technology demonstrator:</p>
+<div class="video">
+<div class="wrapper" style="display:block" type="text/html" width="640" height="360" src="http://www.youtube.com/embed/-96BEoXJMs0?start=0&amp;wmode=transparent" frameborder="0" allowfullscreen></div>
+<p class="caption" style="font-size:0.8em">Nvidia's deep neural network allowed BB-8 to figure out how to drive on and off road in a short amount of time. </p>
+</div>
+<p>But along the way, the automakers and tech firms working on the problem have diverged into two groups: the ones who plan to get there in an incremental, stepwise fashion, and the others who plan to skip the intermediate step.</p>
+</div><p><a href="http://arstechnica.com/cars/2016/12/two-roads-to-the-same-place-2016-and-the-future-of-self-driving-cars/#p3">Read 12 remaining paragraphs</a> | <a href="http://arstechnica.com/cars/2016/12/two-roads-to-the-same-place-2016-and-the-future-of-self-driving-cars/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=AMTGKnO80Uw:16J1aw9TfxM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=AMTGKnO80Uw:16J1aw9TfxM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=AMTGKnO80Uw:16J1aw9TfxM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=AMTGKnO80Uw:16J1aw9TfxM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=AMTGKnO80Uw:16J1aw9TfxM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=AMTGKnO80Uw:16J1aw9TfxM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Three years later, the console wars are more confusing than ever</title>
+		<link>http://arstechnica.com/gaming/2016/12/three-years-later-the-console-wars-are-more-confusing-than-ever/</link>
+		<pubDate>Fri, 23 Dec 2016 15:44:09 +0000</pubDate>
+		<dc:creator><![CDATA[Kyle Orland]]></dc:creator>
+				<category><![CDATA[Opposable Thumbs]]></category>
+		<category><![CDATA[console wars]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1012553</guid>
+		<description><![CDATA[We walk you through the changes upending the console market in 2016 and beyond.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/consolewars-800x450.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/consolewars.jpg" class="enlarge-link" data-height="450" data-width="800">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="http://arstechnica.com/author/aurich-lawson/">Aurich Lawson</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Last year, after much <a href="http://arstechnica.com/gaming/2014/09/dispatches-from-the-console-war-revisiting-our-launch-day-impressions/">previous hemming</a> and <a href="http://arstechnica.com/gaming/2013/11/head-to-head-everything-you-need-to-know-in-the-ps4-vs-xbox-one-battle/">hawing</a>, we recommended that console gamers looking for a new console finally <a href="http://arstechnica.com/gaming/2015/12/dispatches-from-the-console-wars-xbox-one-vs-ps4-two-years-later/">take the plunge and invest in a PlayStation 4</a>. But the console market has changed in the 12 months since that recommendation, from the release of new generation-splitting hardware to the announcement of upcoming console hardware from both Microsoft and Nintendo.</p>
+<p>Is it time to upgrade? Is it better to wait? Should you just stick to <a href="http://arstechnica.com/gaming/2016/12/one-upping-the-nes-classic-edition-with-the-raspberry-pi-3-and-retropie/">a retro-focused Raspberry Pi build</a> instead? Below, we'll walk you through the current state of the console market, summarize what we know about the near future, and give you our best recommendation for where to put your console dollars.</p>
+<h2>Go Pro?</h2>
+<p><a href="//player.cnevids.com/embed/58248dfffd2e615dac000008/5511d76261646d5566020000">The PS4 Pro: It's bigger, it's pricier, and it's more powerful. But does it offer a true 4K experience? Video hosted by: Mark Walton. (video link)</a></p>
+</div><p><a href="http://arstechnica.com/gaming/2016/12/three-years-later-the-console-wars-are-more-confusing-than-ever/#p3">Read 28 remaining paragraphs</a> | <a href="http://arstechnica.com/gaming/2016/12/three-years-later-the-console-wars-are-more-confusing-than-ever/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=FY06zS9RZcQ:agx97y-eib8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=FY06zS9RZcQ:agx97y-eib8:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=FY06zS9RZcQ:agx97y-eib8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=FY06zS9RZcQ:agx97y-eib8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=FY06zS9RZcQ:agx97y-eib8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=FY06zS9RZcQ:agx97y-eib8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>This low-cost device may be the world’s best hope against account takeovers</title>
+		<link>http://arstechnica.com/security/2016/12/this-low-cost-device-may-be-the-worlds-best-hope-against-account-takeovers/</link>
+		<pubDate>Fri, 23 Dec 2016 14:26:26 +0000</pubDate>
+		<dc:creator><![CDATA[Dan Goodin]]></dc:creator>
+				<category><![CDATA[Risk Assessment]]></category>
+		<category><![CDATA[Technology Lab]]></category>
+		<category><![CDATA[account take over]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[security keys]]></category>
+		<category><![CDATA[two-factor authentication]]></category>
+		<category><![CDATA[u2f]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1012141</guid>
+		<description><![CDATA[Privacy-preserving “cryptographic assertions” are impossible to guess or phish.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/u2f-security-key-800x533.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/u2f-security-key.jpg" class="enlarge-link" data-height="533" data-width="800">Enlarge</a> </p>  </figure><div><a name="page-1"></a></div>
+<p>The past five years have witnessed a seemingly unending series of high-profile account take-overs. A growing consensus has emerged among security practitioners: even long, randomly generated passwords aren't sufficient for locking down e-mail and other types of online assets. According to the consensus, these assets need to be augmented with a second factor of authentication.</p>
+<p>Now, a two-year study of more than 50,000 Google employees concludes that cryptographically based Security Keys beat out smartphones and most other forms of two-factor verification.</p>
+<p>The Security Keys are based on <a href="https://en.wikipedia.org/wiki/Universal_2nd_Factor">Universal Second Factor</a>, an open standard that's easy for end users to use and straightforward for engineers to stitch into hardware and websites. When plugged into a standard USB port, the keys provide a "cryptographic assertion" that's just about impossible for attackers to guess or phish. Accounts can require that cryptographic key in addition to a normal user password when users log in. Google, Dropbox, GitHub, and other sites have already implemented the standard into their platforms.</p>
+</div><p><a href="http://arstechnica.com/security/2016/12/this-low-cost-device-may-be-the-worlds-best-hope-against-account-takeovers/#p3">Read 8 remaining paragraphs</a> | <a href="http://arstechnica.com/security/2016/12/this-low-cost-device-may-be-the-worlds-best-hope-against-account-takeovers/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=nWmQN_5yoxM:UrriOTLs-eQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=nWmQN_5yoxM:UrriOTLs-eQ:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=nWmQN_5yoxM:UrriOTLs-eQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=nWmQN_5yoxM:UrriOTLs-eQ:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=nWmQN_5yoxM:UrriOTLs-eQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=nWmQN_5yoxM:UrriOTLs-eQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>12 engrossing nonfiction books from 2016 that will expand your brain</title>
+		<link>http://arstechnica.com/science/2016/12/12-engrossing-nonfiction-books-to-gorge-your-brain-over-the-holidays/</link>
+		<pubDate>Fri, 23 Dec 2016 13:15:21 +0000</pubDate>
+		<dc:creator><![CDATA[Annalee Newitz]]></dc:creator>
+				<category><![CDATA[Scientific Method]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1012147</guid>
+		<description><![CDATA[Awesome reads for people who love technology, science, history, and geek culture.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/030216_preedit_endofownership_018-800x534.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/030216_preedit_endofownership_018.jpg" class="enlarge-link" data-height="1001" data-width="1500">Enlarge</a> <span class="sep">/</span> Detail from the cover of <i>The End of Ownership</i>, by Aaron Perzanowski and Jason Schultz. (credit: Design by Heidi M. Rolf)</p>  </figure><div><a name="page-1"></a></div>
+<p>Sometimes you just want to escape into another world... of facts. That's why the best way to round out your holidays is to snuggle up with a book that is both entertaining and <em>true</em>. We're here for you with some suggestions for great new nonfiction books that came out in 2016.</p>
+<p><strong><a href="https://www.amazon.com/Contain-Multitudes-Microbes-Within-Grander/dp/0062368591/"><em>I Contain Multitudes: The Microbes Within Us and a Grander View of Life</em></a>, by Ed Yong.</strong></p>
+<p>Ed Yong has delighted readers for years with his blog Not Exactly Rocket Science and his stories about science for <em>The Atlantic</em>. With his dry wit and kaleidoscopic knowledge of biology, he can make anything fascinating—whether it's duck penises or parasite lifecycles. In this bestselling book, he explores the microbiome, or the massive ecosystems that live inside our bodies and keep us (mostly) healthy. Come for the poop transplant jokes and stay to have your view of nature turned upside down.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/12-engrossing-nonfiction-books-to-gorge-your-brain-over-the-holidays/#p3">Read 24 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/12-engrossing-nonfiction-books-to-gorge-your-brain-over-the-holidays/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=NTCQvdGIfVs:ODW3KmZ68xA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=NTCQvdGIfVs:ODW3KmZ68xA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=NTCQvdGIfVs:ODW3KmZ68xA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=NTCQvdGIfVs:ODW3KmZ68xA:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=NTCQvdGIfVs:ODW3KmZ68xA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=NTCQvdGIfVs:ODW3KmZ68xA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Glitch art: Meet the artist who knitted Stuxnet into a scarf</title>
+		<link>http://arstechnica.com/gadgets/2016/12/glitch-art/</link>
+		<pubDate>Fri, 23 Dec 2016 12:10:01 +0000</pubDate>
+		<dc:creator><![CDATA[Ars Staff]]></dc:creator>
+				<category><![CDATA[Gear & Gadgets]]></category>
+		<category><![CDATA[The Multiverse]]></category>
+		<category><![CDATA[Glitch]]></category>
+		<category><![CDATA[glitch art]]></category>
+		<category><![CDATA[glitchhaus]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1013963</guid>
+		<description><![CDATA[Ars investigates the nascent domain of turning source code and errors into art.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/Jeff_Donaldson_Prepared_NES2b_photo_by_Raquel_Meyers_-800x532.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/Jeff_Donaldson_Prepared_NES2b_photo_by_Raquel_Meyers_.jpg" class="enlarge-link" data-height="2000" data-width="3008">Enlarge</a> (credit: Photo by Raquel Meyers, used with permission)</p>  </figure><div><a name="page-1"></a></div>
+<p>Glitch art resonates with the increasingly complex love-hate relationship humans have with technology. Errors, and by extension the changes, that can occur within software source code and data can provide a fertile foundation for the imagination.</p>
+<p>In an attempt to explain this nascent artform, <a href="http://www.anatomiederform.com/blog/en/2015/06/the-visual-punk-of-glitch-art/">Martino Prendini wrote</a>: “The error becomes image and movement, system errors are exploited, and it has a certain punk nature. At the same time, this kind of art exploits the glitch and uses it, so its nature is also entropic, dadaist... Glitch art is therefore the contradictory relationship between man and machine losing his functionality."</p>
+<p>Multiple initiatives have already sprung from, inspired, and built on the idea that errors are human—and beautiful. Glitch artists take it further, and attempt to challenge the common belief that technology and algorithms are flawless and cannot malfunction. Take <a href="http://poxparty.com">Poxparty</a> by Jon Satrom for instance: it develops "funware," Apple-inspired software products which have flaws before reaching to the market and are sold with those unchanged. Outside of the simple quest for aesthetics, glitch art questions the cultural values that are associated with technology.</p>
+</div><p><a href="http://arstechnica.com/gadgets/2016/12/glitch-art/#p3">Read 37 remaining paragraphs</a> | <a href="http://arstechnica.com/gadgets/2016/12/glitch-art/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=8GLbTjkCPUg:gJeWsyhl2xg:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=8GLbTjkCPUg:gJeWsyhl2xg:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=8GLbTjkCPUg:gJeWsyhl2xg:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=8GLbTjkCPUg:gJeWsyhl2xg:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=8GLbTjkCPUg:gJeWsyhl2xg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=8GLbTjkCPUg:gJeWsyhl2xg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>5mph wiggle room no longer observed by Tesla autopilot on undivided roads</title>
+		<link>http://arstechnica.com/cars/2016/12/teslas-autopilot-strictly-obeys-traffic-laws-on-undivided-roads-now/</link>
+		<pubDate>Fri, 23 Dec 2016 00:30:46 +0000</pubDate>
+		<dc:creator><![CDATA[Megan Geuss]]></dc:creator>
+				<category><![CDATA[Cars Technica]]></category>
+		<category><![CDATA[autopilot]]></category>
+		<category><![CDATA[Tesla]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1015331</guid>
+		<description><![CDATA[On divided highways, 90 mph is still the upper limit.
+]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/10/AutopilotNew-800x361.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/10/AutopilotNew.jpg" class="enlarge-link" data-height="1300" data-width="2880">Enlarge</a> (credit: Tesla)</p>  </figure><div><a name="page-1"></a></div>
+<p>In a recent update, Tesla seems to have changed Autopilot to make sure its cars obey the speed limit exactly while using Autosteer on surface roads and undivided highways. Tesla vehicles in Autopilot used to have a 5mph buffer in such situations, but that no longer seems to be the case, <a href="https://electrek.co/2016/12/22/tesla-autopilot-speed-limits/">according to Electrek</a>.</p>
+<p class="p1">If the Tesla is on a highway, however, the enforced speed maximum in Autopilot mode is still 90mph.</p>
+<p class="p1">In a November earnings call, Tesla CEO Elon Musk <a href="http://arstechnica.com/cars/2015/11/tesla-will-restrict-self-driving-autopilot-mode-to-stop-people-doing-crazy-things/">promised to restrict people from doing “crazy things”</a> while they’re driving Teslas in Autopilot mode.</p>
+</div><p><a href="http://arstechnica.com/cars/2016/12/teslas-autopilot-strictly-obeys-traffic-laws-on-undivided-roads-now/#p3">Read 3 remaining paragraphs</a> | <a href="http://arstechnica.com/cars/2016/12/teslas-autopilot-strictly-obeys-traffic-laws-on-undivided-roads-now/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=tHs5nTzTLNs:8VHtncYZrXs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=tHs5nTzTLNs:8VHtncYZrXs:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=tHs5nTzTLNs:8VHtncYZrXs:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=tHs5nTzTLNs:8VHtncYZrXs:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=tHs5nTzTLNs:8VHtncYZrXs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=tHs5nTzTLNs:8VHtncYZrXs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Facebook already has a Muslim registry—and it should be deleted</title>
+		<link>http://arstechnica.com/tech-policy/2016/12/facebook-should-delete-the-muslim-registry-it-already-has/</link>
+		<pubDate>Thu, 22 Dec 2016 23:25:41 +0000</pubDate>
+		<dc:creator><![CDATA[Peter Bright]]></dc:creator>
+				<category><![CDATA[Law & Disorder]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[muslims]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1015243</guid>
+		<description><![CDATA[Facebook stands alone in the breadth and depth of personal data it collects.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/4358926176_a330586cfa_b-1.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/4358926176_a330586cfa_b-1.jpg" class="enlarge-link" data-height="731" data-width="683">Enlarge</a> <span class="sep">/</span> A Hollerith machine used in the 1890 US Census. Hollerith's company later merged with three others to create the company that later became known as IBM, and similar machines were instrumental in organizing the Holocaust. (credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/mwichary/4358926176/in/photolist-7DbCTA-4QT1M6-7DbD4J-51D91g-4C1RF7-7DbE11-7DbDzQ-4QXf8S-7D7Q3F-bwPTnJ-HtVZD-4HYDqF-CH4r5G-6RfUT8-i4HR7K-5LjTjA-58g6Dd-4p8DRZ-4p8DyV-4p8Eqv-4p8DkZ">Marcin Wichary</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Since Donald Trump's election, many in the tech industry have been concerned about the way their skills—and the data collected by their employers—might be used. On a number of occasions, Trump has expressed the desire to perform <a href="http://time.com/4566512/donald-trump-deportation-promise/">mass deportations</a> and <a href="https://www.donaldjtrump.com/press-releases/donald-j.-trump-statement-on-preventing-muslim-immigration">end any and all Muslim immigration</a>. He has <a href="http://www.politifact.com/truth-o-meter/article/2015/nov/24/donald-trumps-comments-database-american-muslims/">also said</a> that it would be "good management" to create a database of Muslims, and that there should be "a lot of systems" to track Muslims within the US.</p>
+<p>In the final days of his presidency, Barack Obama has scrapped the George W. Bush-era regulations that <a href="http://www.politico.com/story/2016/12/obama-nseers-muslim-registry-trump-232916">created a registry of male Muslim foreigners entering the US</a>—the registry itself was <a href="http://www.vox.com/2016/12/22/14053190/obama-nseers-trump-muslim">suspended in 2011</a>—but given Trump's views, demands to create a domestic registry are still a possibility.</p>
+<p>As a result, some <a href="http://neveragain.tech/">2,600 tech workers</a> (and counting) have pledged both not to participate in any such programs and to encourage their employers to minimize any sensitive data they collect. The goal is to reduce the chance that such data might be used in harmful ways.</p>
+</div><p><a href="http://arstechnica.com/tech-policy/2016/12/facebook-should-delete-the-muslim-registry-it-already-has/#p3">Read 9 remaining paragraphs</a> | <a href="http://arstechnica.com/tech-policy/2016/12/facebook-should-delete-the-muslim-registry-it-already-has/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=j-RZfDDU0Es:Ocy3DxhNKcA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=j-RZfDDU0Es:Ocy3DxhNKcA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=j-RZfDDU0Es:Ocy3DxhNKcA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=j-RZfDDU0Es:Ocy3DxhNKcA:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=j-RZfDDU0Es:Ocy3DxhNKcA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=j-RZfDDU0Es:Ocy3DxhNKcA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>A modest proposal for Facebook News Feed</title>
+		<link>http://arstechnica.com/staff/2016/12/a-modest-proposal-for-facebook-news-feed/</link>
+		<pubDate>Thu, 22 Dec 2016 21:45:15 +0000</pubDate>
+		<dc:creator><![CDATA[Annalee Newitz]]></dc:creator>
+				<category><![CDATA[Ministry of Innovation]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[fake news]]></category>
+		<category><![CDATA[news feed]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1014943</guid>
+		<description><![CDATA[Unlike other modest proposals you might have read, this one actually is modest.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2015/09/facebookpicage-640x428.jpg"><p class="caption" style="font-size:0.8em">(credit: <a rel="nofollow" class="caption-link" href="https://secure.flickr.com/photos/mkhmarketing/8527429088/in/photolist-dZxizs-5sJqaW-7Jph4H-aCTUN5-4paK7D-58Z4aW-b4tHK4-4bEBbC-fYd97x-gFHNnX-4UwsV4-ctywdU-73j7i3-cNL2Qq-69pM62-3bMSAz-9hpgTa-8mkd52-9yaonN-6JYiE3-8em2UZ-6YrUqB-5YYqyh-atWXNC-9REqgF-9kXrff-7JAjKq-RPEni-68xCBB-82DuLi-7S5uB4-5H3gst-58sBau-4x7MLg-7nUEEF-7VjTKm-gGiUEk-8TG2aq-81qb4r-3W6sxM-4HSJfx-8DK59L-9oC3w7-8TCxvT-jCFim8-37MbJM-cduBpG-3euK71-7LuEfb-4nr9HS">mkhmarketing</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Over the past year, there has been much hue and cry about Facebook's fake news problem. The company deferred dealing with it first by saying that a better machine-learning model will fix the problem and then by saying it will rely on third-party fact checkers to flag "disputed" stories when they are shared. Both of these ideas are OK, but they are missing one crucial ingredient. That ingredient, as Charlton Heston screams in <em>Soylent Green</em>, is people.</p>
+<p>Economist Brad DeLong <a href="https://www.youtube.com/watch?v=FWXgfDS0DXQ">has been saying for a while</a> that robots may take over many jobs, but there are some things robots cannot do alone. Humans will always be needed to make decisions that require a nuanced understanding of how culture works, especially in political and social debates where context is everything. An algorithm might be able to learn some of the signs of fake news—certain hashtags perhaps, or a viral reach that starts with shares happening at bot-like speed. But a human is always going to be needed at some point to determine whether those signs point to fake news or real news that's blowing up organically because it's actually important. And these humans need to be well-trained in media analysis themselves, able to spot hoaxes and lies better than an average reader.</p>
+<p>In short, Facebook needs a team of trained editors. But wait, you are saying. Facebook already had a group of editors <a href="http://arstechnica.com/business/2016/08/facebook-fires-human-editors-algorithm-immediately-posts-fake-news/">the company fired</a> earlier this year. So obviously human workers couldn't solve the problem, right? Wrong. Very few of Facebook's editors were highly experienced, nor were they full-time employees. They were contract workers, treated like outsiders at Facebook and given very little in-depth training or decision-making power. Not surprisingly they grew disgruntled with their work, and a few who had been fired talked about Facebook's slapdash editorial policies in <a href="http://gizmodo.com/former-facebook-workers-we-routinely-suppressed-conser-1775461006">a tell-all with Gizmodo</a>. The point is, Facebook has never made an honest, concerted effort to create an internal team of humans devoted to making the News Feed a good experience for users.</p>
+</div><p><a href="http://arstechnica.com/staff/2016/12/a-modest-proposal-for-facebook-news-feed/#p3">Read 7 remaining paragraphs</a> | <a href="http://arstechnica.com/staff/2016/12/a-modest-proposal-for-facebook-news-feed/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=WP8e5hxxN_Q:nKMPI8tp5xM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=WP8e5hxxN_Q:nKMPI8tp5xM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=WP8e5hxxN_Q:nKMPI8tp5xM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=WP8e5hxxN_Q:nKMPI8tp5xM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=WP8e5hxxN_Q:nKMPI8tp5xM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=WP8e5hxxN_Q:nKMPI8tp5xM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Google’s first flagship smartwatch won’t be branded “Pixel”</title>
+		<link>http://arstechnica.com/gadgets/2016/12/google-promises-first-flagship-smartwatches-early-next-year/</link>
+		<pubDate>Thu, 22 Dec 2016 21:30:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ron Amadeo]]></dc:creator>
+				<category><![CDATA[Gear & Gadgets]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google watch]]></category>
+		<category><![CDATA[smartwatch]]></category>
+		<category><![CDATA[Watch]]></category>
+		<category><![CDATA[wearables]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1015057</guid>
+		<description><![CDATA[Google confirms earlier rumors that it is building a pair of smartwatches. ]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/05/DSC04644-1-640x427.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/05/DSC04644-1.jpg" class="enlarge-link" data-height="1280" data-width="1920">Enlarge</a> <span class="sep">/</span> The Huawei Watch running Android Wear 2.0. (credit: Andrew Cunningham)</p>  </figure><div><a name="page-1"></a></div>
+<p>Google isn't giving up on smartwatches. After two-and-a-half years of leaving the hardware up to third-party manufacturers, Google will finally produce its first "flagship" Android Wear device. In an interview with <a href="http://www.theverge.com/2016/12/22/14057656/google-smartwatch-android-wear-2-0-launch">The Verge</a>, Android Wear Product Manager Jeff Chang confirmed earlier rumors that Google was developing a pair of smartwatches in-house.</p>
+<p>Interestingly, the report says the device will not use Google's unified "<a href="http://arstechnica.com/gadgets/2016/10/google-pixel-review-bland-pricey-but-still-best-android-phone/">Pixel</a>" branding and would instead be branded by the (unnamed) company that is manufacturing the devices for Google. In the interview, Chang "likened the partnership to Google’s Nexus smartphone program."</p>
+<p>We first heard about two "Google" watches from <a href="http://www.androidpolice.com/2016/12/22/google-confirms-it-will-launch-two-smartwatches-early-next-year-but-wont-be-pixel-branded/">Android Police</a>, which says they are codenamed "Angelfish" (a larger, LTE-enabled watch) and "Swordfish" (a smaller watch without LTE). According to the interview, the watches will be the first to launch with Android Wear 2.0, which was <a href="http://arstechnica.com/gadgets/2016/09/google-pushes-android-wear-2-0-back-to-2017-issues-third-developer-beta/">recently delayed</a> into 2017. In addition to a total interface redesign, Wear 2.0 will finally bring Android Pay support to Google's wearables.</p>
+</div><p><a href="http://arstechnica.com/gadgets/2016/12/google-promises-first-flagship-smartwatches-early-next-year/#p3">Read 3 remaining paragraphs</a> | <a href="http://arstechnica.com/gadgets/2016/12/google-promises-first-flagship-smartwatches-early-next-year/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fbseXYkivdg:lmnQ_YRtA14:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=fbseXYkivdg:lmnQ_YRtA14:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fbseXYkivdg:lmnQ_YRtA14:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=fbseXYkivdg:lmnQ_YRtA14:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fbseXYkivdg:lmnQ_YRtA14:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fbseXYkivdg:lmnQ_YRtA14:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Policy like EPA’s Clean Power Plan would mean higher crop yields</title>
+		<link>http://arstechnica.com/science/2016/12/policy-like-epas-clean-power-plan-would-mean-higher-crop-yields/</link>
+		<pubDate>Thu, 22 Dec 2016 21:30:03 +0000</pubDate>
+		<dc:creator><![CDATA[Scott K. Johnson]]></dc:creator>
+				<category><![CDATA[Scientific Method]]></category>
+		<category><![CDATA[air pollution]]></category>
+		<category><![CDATA[EPA]]></category>
+		<category><![CDATA[ozone]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1014819</guid>
+		<description><![CDATA[Ozone-producing pollution harms crops around power plants.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/soybean_harvest-800x536.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/soybean_harvest.jpg" class="enlarge-link" data-height="1371" data-width="2048">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/unitedsoybean/9621039035/in/photostream/">United Soybean Board</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>After the Supreme Court ruling clarifying that the EPA had an obligation to regulate carbon dioxide emissions, the Environmental Protection Agency developed the <a href="https://www.epa.gov/cleanpowerplan/clean-power-plan-existing-power-plants">Clean Power Plan</a> to target greenhouse gases. That’s not the only pollutant that is reduced by cutting emissions and moving away from coal for power generation, though. Limiting the rest of the stuff that comes out the smokestack has health and economic benefits, as well—“co-benefits” in the policy lingo.</p>
+<p>One type of pollution on that list is the compounds that react to produce ozone in the lower atmosphere. While ozone up in the stratosphere shields us from skin-burning UV radiation, ozone at the surface is a lung irritant. It harms plants, as well, reducing the uptake of CO<sub>2</sub> that fuels growth.</p>
+<p>A recent study led by Drexel University’s <a href="http://drexel.edu/cae/contact/faculty/CappsShannon/">Shannon Capps</a> and Syracuse University’s <a href="http://www.ecs.syr.edu/faculty/driscoll/personal/index.asp">Charles Driscoll</a> examines the impact that the Clean Power Plan would have on yields of several susceptible crops and  the growth of a handful of tree species.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/policy-like-epas-clean-power-plan-would-mean-higher-crop-yields/#p3">Read 7 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/policy-like-epas-clean-power-plan-would-mean-higher-crop-yields/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=k8lEsbcdUeY:EKnSAra7bw4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=k8lEsbcdUeY:EKnSAra7bw4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=k8lEsbcdUeY:EKnSAra7bw4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=k8lEsbcdUeY:EKnSAra7bw4:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=k8lEsbcdUeY:EKnSAra7bw4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=k8lEsbcdUeY:EKnSAra7bw4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Reminder: Donate to win swag in our annual Charity Drive sweepstakes</title>
+		<link>http://arstechnica.com/gaming/2016/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-2/</link>
+		<pubDate>Thu, 22 Dec 2016 20:45:07 +0000</pubDate>
+		<dc:creator><![CDATA[Kyle Orland]]></dc:creator>
+				<category><![CDATA[Opposable Thumbs]]></category>
+		<category><![CDATA[charity drive]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1015157</guid>
+		<description><![CDATA[You still have time to help good causes and get a chance to win.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/charity2016-new-2-800x950.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/charity2016-new-2.jpg" class="enlarge-link" data-height="3657" data-width="3081">Enlarge</a> <span class="sep">/</span> Just some of the prizes you can win in our Charity Drive Sweepstakes. </p>  </figure><div><a name="page-1"></a></div>
+<p>As of this writing, just over 500 entrants have donated a bit more than $15,000 to <a href="http://arstechnica.com/gaming/2016/12/enter-for-a-chance-to-win-consoles-games-and-more-in-the-2016-ars-charity-drive/">this year's Ars Technica Charity Drive sweepstakes</a>. That's well under the $38,861 record Arsians set <a href="http://arstechnica.com/gaming/2016/01/ars-readers-set-an-annual-charity-drive-record-over-38000-in-donations/">during last year's epic charity drive</a>.</p>
+<p>That's the bad news. The good news—both for breaking the record and for those that want a chance to win some of the awesome swag we're giving away—is that there are still a couple of weeks left before the January 3 entry deadline.</p>
+<p>I know this year's batch of Ars Technica readers is much more generous than the readers we had <i>last<i> year </i></i>(those miserly cheapskates). Let's prove it by digging deep and adding more donations to the EFF or Child's Play using the directions listed below.</p>
+</div><p><a href="http://arstechnica.com/gaming/2016/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-2/#p3">Read 5 remaining paragraphs</a> | <a href="http://arstechnica.com/gaming/2016/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-2/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fpu21YNZTfE:eHTH1FcqFt0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=fpu21YNZTfE:eHTH1FcqFt0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fpu21YNZTfE:eHTH1FcqFt0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=fpu21YNZTfE:eHTH1FcqFt0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fpu21YNZTfE:eHTH1FcqFt0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=fpu21YNZTfE:eHTH1FcqFt0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Researchers use radar to track 3.5 trillion insects migrating over England</title>
+		<link>http://arstechnica.com/science/2016/12/researchers-use-radar-to-track-3-5-trillion-insects-migrating-over-england/</link>
+		<pubDate>Thu, 22 Dec 2016 20:10:04 +0000</pubDate>
+		<dc:creator><![CDATA[John Timmer]]></dc:creator>
+				<category><![CDATA[Scientific Method]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[etymology]]></category>
+		<category><![CDATA[migrations]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1015067</guid>
+		<description><![CDATA[Large insects undergo a seasonal north/south migration.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/hu4HR-800x533.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/hu4HR.jpg" class="enlarge-link" data-height="682" data-width="1024">Enlarge</a> <span class="sep">/</span> It may not look special, but it's a radar sensitive enough to track an insect in flight. (credit: Rothamsted Visual Communications Unit)</p>  </figure><div><a name="page-1"></a></div>
+<p>Researchers in the UK have turned some highly specialized radar equipment to the skies to track a staggering volume of material—3.2 kilotons of it—as it transits the skies of southern England. The material in question? Insects, about 3.5 trillion of them each year. While smaller insects seem to drift on the prevailing wind, larger ones appear to undergo a directed, seasonal migration.</p>
+<p>The study relied on a combination of high-tech and old-fashioned hardware, shown above and below. The old-fashioned equipment was a traditional insect-catching net, albeit one that was sent aloft trailing below a miniature blimp. This was needed to pick up smaller insects—below 10mg in body mass—which couldn't be tracked using the radar. The radar was a special piece of equipment, called a vertical-looking entomological radar.</p>
+<p>It's impressive hardware. For anything above 10mg, the radar could record "body mass, flight altitude, aerial density, displacement speed, displacement direction, and flight heading." The equipment could do all this up to about 1.2km in altitude, allowing it to catch any high-flying insects. The equipment was set up in three locations in the southern UK and sampled the movement of insects for a full decade to produce the data analyzed in this new paper. During that time, the radars tracked more than 1.8 million individual insects, which were used to extrapolate general trends.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/researchers-use-radar-to-track-3-5-trillion-insects-migrating-over-england/#p3">Read 7 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/researchers-use-radar-to-track-3-5-trillion-insects-migrating-over-england/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=GBEalVJBLDw:2CMYh60nPA0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=GBEalVJBLDw:2CMYh60nPA0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=GBEalVJBLDw:2CMYh60nPA0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=GBEalVJBLDw:2CMYh60nPA0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=GBEalVJBLDw:2CMYh60nPA0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=GBEalVJBLDw:2CMYh60nPA0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Googler sues his employer after he’s scolded for press leaks</title>
+		<link>http://arstechnica.com/tech-policy/2016/12/anonymous-googler-files-suit-against-his-employer-over-secrecy-policies/</link>
+		<pubDate>Thu, 22 Dec 2016 19:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Joe Mullin]]></dc:creator>
+				<category><![CDATA[Law & Disorder]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[privacy]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1014459</guid>
+		<description><![CDATA[Leakers are implored: "For the love of all that’s Googley, please reconsider!"]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/google.lens_.jpg"><p class="caption" style="font-size:0.8em">(credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/121483302@N02/14253849274/in/photolist-nwXBch-pHgY9p-pHh1bF-nvfEGL-pHA1Sq-pHgYFM-oLHbm2-3budHy-4S2cNf-nHyGMY-pHvFrx-pFqcx9-8NsUSh-oLE8n3-8R6gr4-pHA1em-pHzWXb-byDTZW-pr7fAh-pr4EjU-8R6gAc-8SQDes-pHvDdV-9bDpF3-pr7f57-658X8q-oLHbak-52xTRw-rHkvw-hFSeR-rHkYL-d9icVY-HFTWta-vrc3er-pr2ceB-Jz3SNr-HW8Afj-bMyxGz">Global Panorama / flickr</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>A Google product manager has filed a <a href="http://www.bakerlp.com/Google-Blackout-Case/2016-12-19-PAGA-Complaint-Against-Google.pdf">lawsuit (PDF)</a> against his employer, saying that the company's confidentiality requirements violate California labor laws.</p>
+<p>The plaintiff has filed his case anonymously, saying he must sue as a "John Doe" because Google Director of Global Investigations Brian Katz "falsely informed approximately 65,000 Googlers that Plaintiff was terminated for 'leaking' certain information to the press." Doe says he didn't leak and Katz knew he didn't, but he was used as a "very public scapegoat."</p>
+<p>The complaint, first reported by <a href="https://www.theinformation.com/employee-lawsuit-accuses-google-of-spying-program">The Information</a>, is scant on details about what happened between Katz and Doe, while long on criticism of Google's policies. It says Google's threats to discharge employees "who exercise their constitutional rights by providing information to the press or otherwise exercising their freedom of speech" violates the labor code as well.</p>
+</div><p><a href="http://arstechnica.com/tech-policy/2016/12/anonymous-googler-files-suit-against-his-employer-over-secrecy-policies/#p3">Read 11 remaining paragraphs</a> | <a href="http://arstechnica.com/tech-policy/2016/12/anonymous-googler-files-suit-against-his-employer-over-secrecy-policies/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=hJr-j0yXJxQ:YedoJkN9WXE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=hJr-j0yXJxQ:YedoJkN9WXE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=hJr-j0yXJxQ:YedoJkN9WXE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=hJr-j0yXJxQ:YedoJkN9WXE:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=hJr-j0yXJxQ:YedoJkN9WXE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=hJr-j0yXJxQ:YedoJkN9WXE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>States that enact medical marijuana laws see dips in fatal car crashes</title>
+		<link>http://arstechnica.com/science/2016/12/medical-marijuana-laws-linked-to-fewer-fatal-car-crashes/</link>
+		<pubDate>Thu, 22 Dec 2016 19:20:22 +0000</pubDate>
+		<dc:creator><![CDATA[Beth Mole]]></dc:creator>
+				<category><![CDATA[Cars Technica]]></category>
+		<category><![CDATA[Scientific Method]]></category>
+		<category><![CDATA[DUI]]></category>
+		<category><![CDATA[highway safety]]></category>
+		<category><![CDATA[marijuana]]></category>
+		<category><![CDATA[medical marijuana laws]]></category>
+		<category><![CDATA[state laws]]></category>
+		<category><![CDATA[traffic deaths]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1014945</guid>
+		<description><![CDATA[Though it’s a correlation, researchers speculate pot access cuts drunk driving.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/GettyImages-188085849-800x534.jpg"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/GettyImages-188085849.jpg" class="enlarge-link" data-height="683" data-width="1024">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="http://www.gettyimages.com/license/188085849">Getty | Thomas Trutschel </a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Medical marijuana may save lives out on the road as well as in clinics, according to a new study.</p>
+<p>When examining 19 states that had medical marijuana laws on the books by 2014, researchers found that their average rate of <a href="http://dx.doi.org/10.2105/AJPH.2016.303577">traffic deaths fell 11 percent</a> after the laws were enacted. The happy side-effect wasn’t uniform, however; only seven states saw significant reductions, while two states saw increases. Nevertheless, the authors of the new report in the <em>American Journal of Public Health</em> argue that the data bucks the common criticism that more pot access should <em>increase</em> car crashes and injuries.</p>
+<p>Drops in traffic deaths may, in part, be explained by people swapping alcohol for pot, leading to reduced drunk driving, the study’s authors speculated. To back that up, the authors note that the lives spared tended to belong to younger people, particularly 25- to 44-year-olds—an age group frequently involved in alcohol-related traffic deaths.</p>
+</div><p><a href="http://arstechnica.com/science/2016/12/medical-marijuana-laws-linked-to-fewer-fatal-car-crashes/#p3">Read 7 remaining paragraphs</a> | <a href="http://arstechnica.com/science/2016/12/medical-marijuana-laws-linked-to-fewer-fatal-car-crashes/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=JO_CRkn6fuc:JTF3Ew_KxVA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=JO_CRkn6fuc:JTF3Ew_KxVA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=JO_CRkn6fuc:JTF3Ew_KxVA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=JO_CRkn6fuc:JTF3Ew_KxVA:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=JO_CRkn6fuc:JTF3Ew_KxVA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=JO_CRkn6fuc:JTF3Ew_KxVA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Shut up and take our money: Holiday game download sales are here</title>
+		<link>http://arstechnica.com/gaming/2016/12/steam-end-of-year-sale-joined-by-other-deep-digital-discounts/</link>
+		<pubDate>Thu, 22 Dec 2016 19:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sam Machkovech]]></dc:creator>
+				<category><![CDATA[Opposable Thumbs]]></category>
+		<category><![CDATA[PSN]]></category>
+		<category><![CDATA[steam sale]]></category>
+		<category><![CDATA[XBox Live]]></category>
+
+		<guid isPermaLink="false">http://arstechnica.com/?p=1014957</guid>
+		<description><![CDATA[Xbox, PlayStation, Steam, Origin, and others will gladly start taking your money.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-22-at-10.40.43-AM-800x225.png"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-22-at-10.40.43-AM.png" class="enlarge-link" data-height="514" data-width="1826">Enlarge</a> <span class="sep">/</span> Steam's Winter Sale is joined by a user-voted series of awards, pictured above. Log in every day to cast votes for various categories. (credit: Valve Software)</p>  </figure><div><a name="page-1"></a></div>
+<p>Want to skip the holiday shopping lines and avoid worrying about last-minute gift shipping? Digital game downloads might be your best bet, and right now, pretty much every major retailer in the space is offering crazy markdowns.</p>
+<p>Up first, as usual, is PC download shop Steam, where the <a href="http://store.steampowered.com/">Winter Sale</a> kicked off on Thursday with pretty much every markdown seen in the shop's <a href="http://arstechnica.com/gaming/2016/11/valve-lets-gamers-nominate-their-favorites-for-first-annual-steam-awards/">Autumn Sale</a> from just a month ago. There are also a few new offerings. The first one I noticed is a crazy discount on the PC version of <em>Street Fighter V</em>. You can get the game's base package, which launched earlier this year, for less than $20, while $47 gets you <a href="http://store.steampowered.com/bundle/2271/">the "deluxe" edition</a>, including the full normal game and all ten DLC characters (four of which are set to unlock in 2017). Considering the just-released "season two" DLC pass still costs $30, that's about as good a <em>Street Fighter</em> bargain as you should expect for a while.</p>
+<p>Steam is exploding with fighting games these days. While <em>Mortal Kombat X</em> isn't necessarily the best of 'em, its recently patched PC version is finally up to snuff. You can grab its full, <a href="http://store.steampowered.com/sub/128345/">DLC-loaded "XL" version</a> for $13.59 in this sale, as well.</p>
+</div><p><a href="http://arstechnica.com/gaming/2016/12/steam-end-of-year-sale-joined-by-other-deep-digital-discounts/#p3">Read 5 remaining paragraphs</a> | <a href="http://arstechnica.com/gaming/2016/12/steam-end-of-year-sale-joined-by-other-deep-digital-discounts/?comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=REAmQQ48_DE:Hcgxnx9rqKA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=REAmQQ48_DE:Hcgxnx9rqKA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=REAmQQ48_DE:Hcgxnx9rqKA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?i=REAmQQ48_DE:Hcgxnx9rqKA:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=REAmQQ48_DE:Hcgxnx9rqKA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.arstechnica.com/~ff/arstechnica/index?a=REAmQQ48_DE:Hcgxnx9rqKA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/index?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+	</channel>
+</rss>
